@@ -46,9 +46,10 @@ Excited to share my latest project, **Moody Player**!
 - MongoDB (local or cloud)  
 - ImageKit account (for cloud storage integration)
 
-##**Screenshots
+# Some Images 
 
- <img width="1822" height="1116" alt="image" src="https://github.com/user-attachments/assets/4e8c21aa-0a72-48c4-8a18-37378c4ebdd8" />
- ![WhatsApp Image 2025-09-28 at 21 58 50_bf24e38e](https://github.com/user-attachments/assets/2901003d-59f6-484b-a679-c519676f0e3e)
+ <img width="700" height="1000" alt="image" src="https://github.com/user-attachments/assets/4e8c21aa-0a72-48c4-8a18-37378c4ebdd8" />
+  <img width="700" height="1000" alt="image" src="https://github.com/user-attachments/assets/2901003d-59f6-484b-a679-c519676f0e3e"/> 
+  
 
 
